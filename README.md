@@ -1,4 +1,4 @@
-# Py-calc
+# py-calc
 
 EN :
 A simple calculator, built with Python (For learning purposes).
